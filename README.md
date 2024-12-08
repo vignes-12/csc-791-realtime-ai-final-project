@@ -6,6 +6,7 @@ Structure of Repository:
 * Report.pdf: Report that describes results
 * Final_LPRNet_model.pth: Pre-trained LPR model
 * test_data.zip: Test data used to evaluate performance
+* README.md: This file.
 
 How to Run Project:
 
